@@ -1,6 +1,8 @@
 # 🚗 Predicting used car selling prices (Data Science Project)
 
-This project builds a machine learning solution for predicting used car selling prices to support dynamic pricing strategies.  
+This project builds a machine learning solution for predicting used car selling prices to support dynamic pricing strategies. 
+
+The data was taken from: https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 
 
 ## Problem Statement
